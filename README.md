@@ -26,6 +26,6 @@ relayed, indicating to P2 that no more characters will be sent. It is also impor
 P1 and P2 are using ping and arp output to fill their files, it doesn’t matter what is put into the file,
 but in this example, these are the commands used to add content to the file. 
 
-*Full Report*: [Click Here](https://github.com/Reaganak40/process_cover_channel/blob/main/Cpts%20427%20HW3%20Covert%20Channel.pdf)
+*Full Report*: [Click Here](https://github.com/Reaganak40/covert_channel/blob/main/Cpts%20427%20HW3%20Covert%20Channel.pdf)
 
 *Demo Video*: [Click Here](https://wsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7bff91-dfe0-4e4f-87bb-ae8701748ce0&start=0)
